@@ -1,6 +1,6 @@
 # Student Information
 
-**Name:** [Your Name Here]
+**Name:** [Sabeeh]
 
 **Email:** [Your Email Here]
 
